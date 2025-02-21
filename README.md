@@ -1,4 +1,7 @@
-[![MasterHead](https://i.hizliresim.com/qqkzpfn.png?_gl=1*xig3kp*_ga*NDAwOTYyNjYxLjE3Mzk5MDU5Mjc.*_ga_M9ZRXYS2YN*MTczOTkxMTU5Mi4yLjEuMTczOTkxMjAzNS41OS4wLjA.)
+[![MasterHead](https://i.imgur.com/20vbFQv.jpeg)](https://i.imgur.com/20vbFQv)
+
+
+
 
 <h1 align="center">Hi 👋, I'm Hasan Basaran</h1>
 <h3 align="center">Turkish Technology Lover</h3>
